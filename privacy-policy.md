@@ -4,7 +4,11 @@ Ongoing takes your privacy seriously. To better protect your privacy I provide t
 
 ## Collection of Routine Information
 
-This app tracks no information about its users.
+This app does not track or collect any information about its users by default. However, if you choose to enable the optional data synchronization feature, your data will be stored as described in the Data Synchronization section below.
+
+## Data Synchronization
+
+If you choose to use the data synchronization feature, your data may be synced across your devices via Firestorm (Firebase/Firestore). This data is stored securely on Google's servers and is used solely for the purpose of enabling synchronization between your clients. This feature is optional and only activated if you explicitly enable it.
 
 ## Cookies
 
